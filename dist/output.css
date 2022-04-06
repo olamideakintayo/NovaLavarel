@@ -923,12 +923,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   border-radius: 9999px;
 }
 
-.border{
-  border-width: 1px;
-}
-
 .border-4{
   border-width: 4px;
+}
+
+.border{
+  border-width: 1px;
 }
 
 .border-white{
