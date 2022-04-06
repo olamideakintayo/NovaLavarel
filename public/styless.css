@@ -1,0 +1,1689 @@
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) {
+    .mm{
+        position: relative;
+        margin-bottom: 90px;
+    }
+
+    .ol{
+        position: relative;
+        margin-top: 9px;
+        padding-bottom: 10px;
+        padding-top: 0rem;
+    }
+
+    .oo{
+        position: relative;
+        top: -330px;
+    }
+
+    
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) {
+    .mm{
+        position: relative;
+      min-height: 2100px;
+    }
+
+
+    .ol{
+        position: relative;
+        margin-bottom: 50px;
+    }
+
+    .oo{
+        position: relative;
+        top: -320px;
+    }
+
+
+    .lkg{
+        position: relative;
+      right: 30px;
+    }
+   .kg{
+       left: -110px;
+     
+   }
+  
+   .jg{
+    margin-right: 30px;
+   }
+  
+  .lu{
+      margin-right: 30px;
+  }
+  
+  .lvr{
+      left: -30px;
+      position: relative;
+  }
+
+  .ui{
+    position: relative;
+    width: 80%;
+    margin-left: 65px;
+}
+
+.yu{
+    position: relative;
+    margin-left: 25px;
+}
+
+}
+
+@media only screen and (min-device-width: 390px) and (max-device-height: 844px) and (-webkit-device-pixel-ratio: 3) { 
+    .mm{
+        position: relative;
+        min-height: 2000px;
+    }
+
+    .ol{
+        position: relative;
+        margin-bottom: 30px;
+        padding-bottom: 20px;
+        padding-top: 0rem;
+    }
+
+    .oo{
+        position: relative;
+        margin-bottom: 50px;
+    }
+
+    .lkg{
+        position: relative;
+      right: 30px;
+    }
+   .kg{
+       left: -110px;
+     
+   }
+  
+   .jg{
+    margin-right: 30px;
+   }
+  
+  .lu{
+      margin-right: 30px;
+  }
+  
+  .lvr{
+      left: -30px;
+      position: relative;
+  }
+
+  .ui{
+    position: relative;
+    width: 80%;
+    margin-left: 65px;
+}
+
+.yu{
+    position: relative;
+    margin-left: 25px;
+}
+
+.uo{
+ position: relative;
+ width: 65%;
+
+}
+
+
+
+}
+
+@media (device-height: 851px) {
+    .mm{
+        position: relative;
+        min-height: 2000px;
+    }
+
+    .ol{
+        position: relative;
+        margin-bottom: 30px;
+        padding-bottom: 20px;
+        padding-top: 0rem;
+    }
+
+    .oo{
+        position: relative;
+        margin-bottom: 20px;
+    }
+
+    .lkg{
+        position: relative;
+      right: 30px;
+    }
+   .kg{
+       left: -110px;
+     
+   }
+  
+   .jg{
+    margin-right: 30px;
+   }
+  
+  .lu{
+      margin-right: 30px;
+  }
+  
+  .lvr{
+      left: -30px;
+      position: relative;
+  }
+
+  .ui{
+    position: relative;
+    width: 80%;
+    margin-left: 65px;
+}
+
+.yu{
+    position: relative;
+    margin-left: 25px;
+}
+}
+
+@media (device-width: 1280px) {
+  .header{
+    margin-right: 180px;
+
+  }
+  .ght {
+      margin-left: -110px;
+  }
+  .lvr{
+      margin-left: 140px;
+  }
+
+  .sect-1{
+      margin-left: -80px;
+  }
+
+  .sl{
+      margin-left: 330px;
+  }
+}
+
+/* iphone X , XS, 11 Pro, 12 Mini */
+ @media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+br{
+    display: none;
+}
+    .ol{
+        position: relative;
+        margin-bottom: 90px;
+        padding-bottom: 20px;
+        padding-top: 0rem;
+    }
+
+    .oo{
+        position: relative;
+        margin-bottom: 85px;
+        padding-bottom: -90rem;
+    }
+.section-2-text{
+    position: relative;
+    bottom: 70px;
+   
+}
+  
+.mm{
+    position: relative;
+    min-height: 2100px;
+
+  }
+
+  .ui{
+      position: relative;
+      width: 80%;
+      margin-left: 65px;
+  }
+
+  .yu{
+      position: relative;
+      margin-left: 25px;
+  }
+
+  .uo{
+    position: relative;
+
+
+  }
+
+  .lkg{
+      position: relative;
+    right: 30px;
+  }
+ .kg{
+     left: -110px;
+   
+ }
+
+ .jg{
+  margin-right: 30px;
+ }
+
+.lu{
+    margin-right: 30px;
+}
+
+.lvr{
+    left: -30px;
+    position: relative;
+}
+
+
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 740px) {
+    .ui{
+        position: relative;
+        width: 80%;
+        margin-left: 65px;
+    }
+  
+    .yu{
+        position: relative;
+        margin-left: 25px;
+    }
+  
+    .uo{
+      position: relative;
+  
+  
+    }
+  
+    .lkg{
+        position: relative;
+      right: 30px;
+    }
+   .kg{
+       left: -110px;
+     
+   }
+  
+   .jg{
+    margin-right: 30px;
+   }
+  
+  .lu{
+      margin-right: 30px;
+  }
+  
+  .lvr{
+      left: -30px;
+      position: relative;
+  }
+
+  .ol{
+      position: relative;
+      margin-bottom: 90px;
+  }
+  
+
+  .oo{
+      position: relative;
+      margin-bottom: 100px;
+     left: -138px;
+  }
+
+  .uo{
+      position: relative;
+      max-width: 60%;
+      left: 10px;
+  }
+
+  .ty{
+      position: relative;
+      min-width: 82%;
+  }
+
+  .mm{
+      position: relative;
+     min-height: 2200px;
+  }
+
+  .mn{
+      position: relative;
+      min-width: 1000%;
+  }
+
+
+
+
+
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) {
+   .uo{
+       position: relative;
+       max-width: 65%;
+       left: -8px;
+   }
+ 
+   .ui{
+    position: relative;
+    width: 80%;
+    margin-left: 65px;
+}
+
+.yu{
+    position: relative;
+    margin-left: 25px;
+}
+
+.uo{
+  position: relative;
+
+
+}
+
+.lkg{
+    position: relative;
+  right: 30px;
+}
+.kg{
+   left: -110px;
+ 
+}
+
+.jg{
+margin-right: 30px;
+}
+
+.lu{
+  margin-right: 30px;
+}
+
+.lvr{
+  left: -30px;
+  position: relative;
+}
+
+.section-2-text{
+    position: relative;
+ width: 95%;
+ margin-left: 10px;
+}
+
+.mm{
+    min-height: 2080px;
+}
+
+.ol{
+    position: relative;
+    margin-bottom: 50px;
+    top: 60px;
+    padding-top: 0px;
+
+}
+
+
+
+
+}
+
+
+
+@media only screen and (min-device-width: 540px) and (max-device-width: 720px) {
+    body{
+        overflow-x: hidden;
+       
+      }
+      br{
+          display: none;
+      }
+      .ght {
+      position: relative;
+     right: 570px;
+    
+     
+      }
+      
+      .gjh {
+         
+         position: relative;
+         padding-bottom: 1.5rem;
+      }
+  
+      .lvr {
+      position: relative;
+      max-height: 1px;
+      padding-bottom: 150px;
+      margin-left: 225px;
+      top: 0%;
+      bottom: 0%;
+      display: flex;
+      width: 10em;
+    }
+  
+    .lkg{
+        position: relative;
+        bottom: 0%;
+        top: 0%;
+        margin-left: 296px;
+        font-size: 16px;
+        margin-bottom: 22px;
+    }
+  
+    .kg{
+     right: -20px;
+     bottom: 0%;
+     margin-top: 25px;
+      top: 0%;
+      font-size: 16px;
+    }
+  
+    .jg{
+      right: -5px;
+     bottom: 0%;
+     margin-top: 50px;
+      top: 0%;
+      font-size: 16px;
+    }
+  
+    .lu{
+      right: -35px;
+      bottom: 0%;
+      margin-top: 80px;
+       top: 0%;
+       font-size: 16px;
+    }
+  
+    .sl{
+        position: absolute;
+        top: 230px;
+        left: -320px;
+        width: 22em;
+        bottom: 200px;
+       
+    }
+  
+  .hu{
+      position: relative;
+      top: 250px;
+  }
+  
+  .ui{
+      position: relative;
+      top:230px;
+      max-width: 350px;
+      left: -30px;
+       
+  }
+  
+  .yu{
+     position: relative;
+     top: 230px;
+     left: 70px;
+  }
+  
+  .up{
+      position: relative;
+      font-size: 30px;
+      white-space: nowrap;
+      left: 170px;
+      bottom:10px;
+      font-weight: 200;
+  }
+  
+  .uo{
+  position: relative;
+  font-size: -1em;
+  right: 20px;
+  bottom: 20px;
+  margin-left: 100px;
+  width: 68%;
+  padding-left: 50px;
+  padding-right: 30px;
+  }
+  
+  .op{
+      position: relative;
+      bottom: -350px;
+     
+  }
+  
+  .oo{
+      position: absolute;
+      right: 50px;
+    top: -400px;
+      width: 80%;
+  }
+  
+  .ol{
+      position: relative;
+     top: 200px;
+     min-height: 1160px;
+     padding-top: 30px;
+  }
+  
+  .ty{
+  position: relative;
+  top: 60px;
+  font-weight: -50;
+  box-sizing: inherit;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  font-weight: 300;
+  width: 60%;
+  padding-right: 60px;
+  left: 60px;
+  }
+  
+  .ok{
+      position: relative;
+      top: -75px;
+      left: 70px;
+  }
+  
+  .kk{
+      position: relative;
+      right: 142px;
+      top: 65px;
+  }
+  
+  .mn{
+  display: inline;
+      position: relative;
+  font-size:88%;
+  max-width: max-content;
+  padding: 0;
+  content: '';
+  }
+  
+  .kn{
+      position: relative;
+      right: -70px;
+      top: -80px;
+      width: 300px;
+      font-size: 97%;
+     
+  }
+  .lo{
+     position: relative;
+     top: 30px;
+     right: 470px;
+  }
+  
+  .xz{
+      position: relative;
+      left: 75px;
+      bottom: 70px;
+      width: 270px;
+  }
+  
+  .xx{
+      
+      position: relative;
+      left: -480px;
+      top: 65px;
+  }
+  
+  .oy{
+   position: relative;
+   font-size: 16px;
+  }
+  
+  .yo{
+  position: relative;
+  font-size: 16px;
+  }
+  
+  .yy{
+  position: relative;
+  font-size: 17px;
+  }
+  
+  .nk{
+      display: inline;
+      position: relative;
+      font-weight: 100;
+      
+     min-width: 2000%;
+     padding: 0;
+     
+  
+  }
+  
+  .xc{
+      display: inline;
+      position: relative;
+  font-size:88%;
+  width: 100;
+  padding: 0;
+  
+  }
+  
+  .ob{
+      position: relative;
+      bottom: 340px;
+      right: 150px;
+      width: 100px;
+      display: inline;
+      padding: 0;
+      max-width: max-content;
+  }
+      .pa{
+        position: sticky;
+        bottom: 0;
+        
+      }
+  
+  .ov{
+      height: 60px;
+      width: 60px;
+      background-color: rgba(49, 65, 78);
+      position:absolute;
+      right: 2rem;
+      bottom: 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 0px solid;
+      border-radius: 50%;
+  }
+  
+  
+  .uv{
+      display: none;
+  }
+  
+  
+  
+  .pl{
+      position: relative;
+      padding-bottom: 55rem;
+      overflow: hidden;
+  }
+  
+  
+  .ob{
+    
+      position: relative;
+      right: 165px;
+     width: 200px;
+     
+  }
+  
+  .hj{
+      position: relative;
+      right: 3px;
+  }
+  
+  .lp{
+      position: relative;
+      bottom:345px;
+      right: 160px;
+  }
+  
+  
+  .kt{
+      position: relative;
+      top: 2px;
+      right: 103px;
+    margin-left: 100px;
+    font-size: 13px;
+    width: 170%;
+  }
+   
+  .mm{
+      position: relative;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      
+      min-height: 1750px;
+  }
+  
+  .bo{
+      position: relative;
+      bottom: 345px;
+      left: -8px;
+  }
+  
+  .tk{
+      position: relative;
+      top: 2px;
+      right: 103px;
+    left: 1px;
+    font-size: 13px;
+   width: 91%;
+  }
+  
+  .bob{
+      position: relative;
+      bottom: 340px;
+      left: -165px;
+  }
+  
+  .tkk{
+      position: relative;
+      top: 2px;
+      right: 103px;
+    left: 1px;
+    font-size: 13px;
+   width: 181%;
+  }
+  
+  
+  .obb{
+  position: relative;
+  bottom: 350px;
+      left: -40px;
+  }
+  
+  .kkt{
+  position: relative;
+  top: 2px;
+      right: 103px;
+    left: 1px;
+    font-size: 13px;
+   width: 115%;
+  }
+  
+  .hh{
+      position: relative;
+      bottom: 5px;
+  }
+  
+  .oi{
+  position: relative;
+  bottom: 380px;
+      left: -160px;
+  
+  }
+  
+  .bn{
+  position: relative;
+  top: 2px;
+      right: 103px;
+    left: 1px;
+    font-size: 13px;
+   width: 175%;
+  }
+  
+  .er{
+      position: relative;
+      bottom: 400px;
+          left: -42px;
+  }
+  
+  .re{
+      position: relative;
+      top: 2px;
+          right: 103px;
+        left: 1px;
+        font-size: 13px;
+       width: 115%;
+  }
+  
+  .nb{
+      position: relative;
+      left: 40px;
+  }
+  
+  .nbn{
+     position: relative;
+     bottom: 410px;
+          left: -160px;
+  }
+  
+  .bnb{
+    position: relative;
+    top: 2px;
+          right: 103px;
+        left: 1px;
+        font-size: 13px;
+       width:180%;
+  }
+  
+  .th{
+  position: relative;
+  bottom: 410px;
+          left: -40px
+  }
+  
+  .hth{
+      position: relative;
+      top: 2px;
+            right: 103px;
+          left: 1px;
+          font-size: 13px;
+         width:120%;
+  }
+  
+  .yt{
+      position: relative;
+      left: 10px;
+  }
+  
+  
+  .ry{
+   
+   position: relative;
+  bottom: 450px;
+          left: -160px;
+    
+  }
+  
+  .yr{
+    position: relative;
+    top: 2px;
+            right: 103px;
+          left: 1px;
+          font-size: 13px;
+         width:138%;
+  }
+  
+  .gb{
+      position: relative;
+      min-width: 12rem;
+     
+  }
+  
+  .gv{
+      position: relative;
+      top: 40px;
+  }
+  
+  .ore{
+      position: relative;
+      max-height: 370px;
+  }
+  
+  
+  .uyy{
+      position: relative;
+      top: 240px;
+  }
+  
+  .ord{
+    position: relative;
+    right: 280px;
+    font-size: large;
+    font-weight: 300;
+    width: 80%;
+    top: 80px;
+  }
+  
+  .orn{
+      position: relative;
+      display: none;
+  }
+  
+  .orb{
+      position: relative;
+      top: 30px;
+  }
+  
+  .orf{
+     
+      position: relative;
+      margin-left: 70px;
+  }
+  
+  .ory{
+      position: relative;
+      margin-top:10px;
+      margin-right: 40px;
+  }
+  
+  .iop{
+      position: relative;
+      width: 100%;
+      left:10px;
+      height: auto;
+  }
+  
+  .poi{
+      position: relative;
+      width: 100%;
+      left:10px;
+      margin-top: 50px;
+      padding-bottom: 40px;
+  }
+  
+  .oii{
+      position: relative;
+      width: 80%;
+      left: 50px;
+      bottom: 40px;
+  }
+  
+  .loi{
+      position: relative;
+      width: 98%;
+  }
+  
+  
+  .oil{
+     position: relative;
+     width: 90%;
+  }
+  
+}
+
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1124px){
+    br{
+        display: none;
+    }
+
+    
+   .ght{
+        position: relative;
+        margin-left: -420px;
+    }
+
+    .lvr{
+        position: relative;
+        left: -240px;
+        margin-bottom: 20px;
+    }
+
+    .gjh{
+        position: relative;
+        bottom: 30px;
+        padding-bottom: 2rem;
+    }
+
+    .sect-1{
+        position: relative;
+        bottom: 60px;
+    }
+
+    .up{
+        position: relative;
+        font-weight: 100;
+        line-height: 60px;
+    }
+
+    .uo{
+        position: relative;
+        width: 50%;
+    }
+
+    .sl{
+       position: absolute;
+        left: 20px;
+        top: 50px;
+    }
+
+    .oo{
+        position: relative;
+        left: -190px;
+        max-width: 105%;
+    }
+
+    .ol{
+        position: relative;
+        top: 40px;
+       margin-bottom: -160px;
+    }
+
+    .ty{
+        position: relative;
+        max-width:590px;
+        font-weight: 100;
+       bottom: 20px;
+       left: 100px;
+       
+    }
+
+    .lwr{
+        position: relative;
+        margin-bottom: 100px;
+    }
+
+    .kk{
+        position: relative;
+        left: -185px;
+        bottom: 20px;
+        width: 65%;
+       padding-right: 130px;
+    }
+
+    .lo{
+        position: relative;
+        left: -210px;
+        top: -260px;
+        width: 95%;
+        
+    }
+
+    .xz{
+        position: relative;
+        left: 60px;
+        top: -45px;
+        width: 90%;
+        padding-right: 50px;
+    }
+
+    .xx{
+        position: relative;
+        left: 50px;
+       
+    }
+}
+
+
+
+
+@media (max-device-width: 480px) {
+
+    body{
+      overflow-x: hidden;
+     
+    }
+    br{
+        display: none;
+    }
+    .ght {
+    position: relative;
+   right: 650px;
+  
+   
+    }
+    
+    .gjh {
+       
+       position: relative;
+       padding-bottom: 1.5rem;
+    }
+
+    .lvr {
+    position: relative;
+    max-height: 1px;
+    padding-bottom: 150px;
+    margin-left: 145px;
+    top: 0%;
+    bottom: 0%;
+    display: flex;
+    width: 10em;
+  }
+
+  .lkg{
+      position: relative;
+      bottom: 0%;
+      top: 0%;
+      margin-left: 296px;
+      font-size: 16px;
+      margin-bottom: 22px;
+  }
+
+  .kg{
+   right: -20px;
+   bottom: 0%;
+   margin-top: 25px;
+    top: 0%;
+    font-size: 16px;
+  }
+
+  .jg{
+    right: -5px;
+   bottom: 0%;
+   margin-top: 50px;
+    top: 0%;
+    font-size: 16px;
+  }
+
+  .lu{
+    right: -35px;
+    bottom: 0%;
+    margin-top: 80px;
+     top: 0%;
+     font-size: 16px;
+  }
+
+  .sl{
+      position: absolute;
+      top: 230px;
+      left: -380px;
+      width: 22em;
+      bottom: 200px;
+     
+  }
+
+.hu{
+    position: relative;
+    top: 250px;
+}
+
+.ui{
+    position: relative;
+    top:230px;
+    max-width: 350px;
+    left: -30px;
+     
+}
+
+.yu{
+   position: relative;
+   top: 230px;
+   left: 70px;
+}
+
+.up{
+    position: relative;
+    font-size: 30px;
+    white-space: nowrap;
+    left: 170px;
+    bottom:10px;
+    font-weight: 200;
+}
+
+.uo{
+position: relative;
+font-size: -1em;
+right: 20px;
+bottom: 20px;
+margin-left: 100px;
+width: 68%;
+padding-left: 50px;
+padding-right: 30px;
+}
+
+.op{
+    position: relative;
+    bottom: -350px;
+   
+}
+
+.oo{
+    position: absolute;
+    right: 50px;
+   bottom: 880px;
+    width: 80%;
+}
+
+.ol{
+    position: relative;
+   top: 200px;
+   min-height: 1240px;
+}
+
+.ty{
+position: relative;
+top: 60px;
+font-weight: -50;
+box-sizing: inherit;
+font-size: 1.5rem;
+line-height: 1.5;
+font-weight: 300;
+width: 80%;
+left: 30px;
+}
+
+.ok{
+    position: relative;
+    top: -75px;
+    left: 70px;
+}
+
+.kk{
+    position: relative;
+    right: 142px;
+    top: 65px;
+}
+
+.mn{
+display: inline;
+    position: relative;
+font-size:88%;
+max-width: max-content;
+padding: 0;
+content: '';
+}
+
+.kn{
+    position: relative;
+    right: -70px;
+    top: -80px;
+    width: 300px;
+    font-size: 97%;
+   
+}
+.lo{
+   position: relative;
+   top: 30px;
+   right: 470px;
+}
+
+.xz{
+    position: relative;
+    left: 75px;
+    bottom: 70px;
+    width: 270px;
+}
+
+.xx{
+    
+    position: relative;
+    left: -480px;
+    top: 65px;
+}
+
+.oy{
+ position: relative;
+ font-size: 16px;
+}
+
+.yo{
+position: relative;
+font-size: 16px;
+}
+
+.yy{
+position: relative;
+font-size: 17px;
+}
+
+.nk{
+    display: inline;
+    position: relative;
+    font-weight: 100;
+    
+   min-width: 2000%;
+   padding: 0;
+   
+
+}
+
+.xc{
+    display: inline;
+    position: relative;
+font-size:88%;
+width: 100;
+padding: 0;
+
+}
+
+.ob{
+    position: relative;
+    bottom: 340px;
+    right: 150px;
+    width: 100px;
+    display: inline;
+    padding: 0;
+    max-width: max-content;
+}
+    .pa{
+      position: sticky;
+      bottom: 0;
+      
+    }
+
+.ov{
+    height: 60px;
+    width: 60px;
+    background-color: rgba(49, 65, 78);
+    position:absolute;
+    right: 2rem;
+    bottom: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0px solid;
+    border-radius: 50%;
+}
+
+
+.uv{
+    display: none;
+}
+
+
+
+.pl{
+    position: relative;
+    padding-bottom: 55rem;
+    overflow: hidden;
+}
+
+
+.ob{
+  
+    position: relative;
+    right: 165px;
+   width: 200px;
+   
+}
+
+.hj{
+    position: relative;
+    right: 3px;
+}
+
+.lp{
+    position: relative;
+    bottom:345px;
+    right: 160px;
+}
+
+
+.kt{
+    position: relative;
+    top: 2px;
+    right: 103px;
+  margin-left: 100px;
+  font-size: 13px;
+  width: 170%;
+}
+ 
+.mm{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+    max-height: 1820px;
+}
+
+.bo{
+    position: relative;
+    bottom: 345px;
+    left: -8px;
+}
+
+.tk{
+    position: relative;
+    top: 2px;
+    right: 103px;
+  left: 1px;
+  font-size: 13px;
+ width: 91%;
+}
+
+.bob{
+    position: relative;
+    bottom: 340px;
+    left: -165px;
+}
+
+.tkk{
+    position: relative;
+    top: 2px;
+    right: 103px;
+  left: 1px;
+  font-size: 13px;
+ width: 181%;
+}
+
+
+.obb{
+position: relative;
+bottom: 350px;
+    left: -40px;
+}
+
+.kkt{
+position: relative;
+top: 2px;
+    right: 103px;
+  left: 1px;
+  font-size: 13px;
+ width: 115%;
+}
+
+.hh{
+    position: relative;
+    bottom: 5px;
+}
+
+.oi{
+position: relative;
+bottom: 380px;
+    left: -160px;
+
+}
+
+.bn{
+position: relative;
+top: 2px;
+    right: 103px;
+  left: 1px;
+  font-size: 13px;
+ width: 175%;
+}
+
+.er{
+    position: relative;
+    bottom: 400px;
+        left: -42px;
+}
+
+.re{
+    position: relative;
+    top: 2px;
+        right: 103px;
+      left: 1px;
+      font-size: 13px;
+     width: 115%;
+}
+
+.nb{
+    position: relative;
+    left: 40px;
+}
+
+.nbn{
+   position: relative;
+   bottom: 410px;
+        left: -160px;
+}
+
+.bnb{
+  position: relative;
+  top: 2px;
+        right: 103px;
+      left: 1px;
+      font-size: 13px;
+     width:180%;
+}
+
+.th{
+position: relative;
+bottom: 410px;
+        left: -40px
+}
+
+.hth{
+    position: relative;
+    top: 2px;
+          right: 103px;
+        left: 1px;
+        font-size: 13px;
+       width:120%;
+}
+
+.yt{
+    position: relative;
+    left: 10px;
+}
+
+
+.ry{
+ 
+ position: relative;
+bottom: 450px;
+        left: -160px;
+  
+}
+
+.yr{
+  position: relative;
+  top: 2px;
+          right: 103px;
+        left: 1px;
+        font-size: 13px;
+       width:138%;
+}
+
+.gb{
+    position: relative;
+    min-width: 12rem;
+   
+}
+
+.gv{
+    position: relative;
+    top: 40px;
+}
+
+.ore{
+    position: relative;
+    max-height: 370px;
+}
+
+
+.uyy{
+    position: relative;
+    top: 240px;
+}
+
+.ord{
+  position: relative;
+  right: 280px;
+  font-size: large;
+  font-weight: 300;
+  width: 80%;
+  top: 80px;
+}
+
+.orn{
+    position: relative;
+    display: none;
+}
+
+.orb{
+    position: relative;
+    top: 30px;
+}
+
+.orf{
+   
+    position: relative;
+    margin-left: 70px;
+}
+
+.ory{
+    position: relative;
+    margin-top:10px;
+    margin-right: 40px;
+}
+
+.iop{
+    position: relative;
+    width: 100%;
+    left:10px;
+    height: auto;
+}
+
+.poi{
+    position: relative;
+    width: 100%;
+    left:10px;
+    margin-top: 50px;
+    padding-bottom: 40px;
+}
+
+.oii{
+    position: relative;
+    width: 80%;
+    left: 50px;
+    bottom: 40px;
+}
+
+.loi{
+    position: relative;
+    width: 98%;
+}
+
+
+.oil{
+   position: relative;
+   width: 90%;
+}
+
+
+
+
+}
+
+
+@media (min-device-width: 1600px) and (max-device-width: 2560px) {
+      
+    .header {
+        border-bottom: 2px solid #dee2e5;
+        max-width: 990px;
+        
+       }
+
+       .sect-1{
+           margin-left: -48px;
+       }
+
+       .header-contents{
+           margin-left: 370px;
+       }
+
+       .lvr{
+           margin-left: 300px;
+       }
+
+       .sl{
+           margin-left: 500px;
+       }
+
+       .oo{
+           margin-left: 300px;
+       }
+      
+       .text-3{
+           margin-left: 100px;
+       }
+
+       .ol{
+             max-height: 1100px;
+             padding-bottom: 0%;
+             margin-bottom: 0%;
+       }
+
+
+       .mm{
+           margin-left: 120px;
+          background: 100%;
+          margin-top: 170px;
+       }
+
+       .kt br{
+         display: none;
+          
+       }
+
+       .kt{
+           max-width: 81%;
+           padding-right: 20px;
+       }
+
+       .bo{
+           position: relative;
+           left: -100px;
+       }
+
+       .ord{
+       
+           left: 100px;
+           
+       }
+}
+
+@media (device-width: 1024px) {
+    
+}
+
+
+

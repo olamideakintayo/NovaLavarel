@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  position: relative;
+  box-sizing: inherit;
+  background-color: #eef1f4;
+  
+}
+
+html,body{
+  margin: 0;
+}
+
+
+.header {
+ border-bottom: 2px solid #dee2e5;
+ max-width: 950px;
+}
+
+.pl {
+  position: relative;
+  padding-bottom: 1rem;
+  overflow: hidden;
+ }
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fy-10 {
+bottom: 0px;
+  position: relative;
+  top: 0px;
+max-height: 1200px;
+}
+
+.ay-10 {
+ max-height: 485px;
+  position: relative;
+  
+}
+
+.qy-10 {
+position: relative;
+}
+
+.jk-10 {
+position: relative;
+bottom: 80px;
+
+}
+
+
+.cards {
+ position: relative;
+max-height: 1px;
+margin-top: 0%;
+}
+
+
+.yq-10 {
+text-decoration: none;
+background-color: #F7F9FB;
+position: relative;
+width:auto;
+padding: 30px;
+padding-bottom: 10px;
+
+}
+ 
+
+.iq-10 {
+  text-decoration: none;
+  background-color: #F7F9FB;
+  position: relative;
+  width:auto;
+  padding: 30px;
+  padding-bottom: 22px;
+  top: 40px;
+  
+ }
+
+
+.pq-10 {
+  left: 132px;
+  position: relative;
+  top: -16px;
+}
+
+.ug-10 {
+  position: relative;
+  top:7px;
+  left: 20px;
+}
+
+.by-10 {
+max-width: 48.75rem;
+position: relative;
+
+}
+
+.md\:text-3xl {
+  font-size: 1.875rem;
+}
+
+.md\:mb-12 {
+  margin-bottom: 3rem;
+}
+
+
+.gy-10 {
+bottom: 385px;
+left: 294px;
+position: relative;
+letter-spacing: 1px;
+}
+
+.gyy-10 {
+  bottom: 385px;
+left: 350px;
+position: relative;
+letter-spacing: 1px;
+}
+
+.gyyy-10 {
+  bottom: 360px;
+  left:300px;
+  position: relative;
+  color: aqua;
+}
+
+.dy-10 {
+  top:165px;
+position: relative;
+max-height: 1250px;
+}
+
+
+.pa {
+  position: sticky;
+  bottom: 0;
+  
+}
+
+.ov {
+height: 60px;
+width: 60px;
+background-color: rgba(49, 65, 78);
+position:absolute;
+right: 2rem;
+bottom: 2rem;
+display: flex;
+align-items: center;
+justify-content: center;
+border: 0px solid;
+border-radius: 50%;
+}
+
+
+.uv {
+display: none;
+
+}
+
+
+.nn {
+  position: relative;
+  
+}
+
+.ikl {
+  position: relative;
+  padding-bottom: 90px;
+}
+
+
+.last{
+  position: relative;
+  left: -5px;
+  top: 5px;
+}
+
+.tos{
+  position: relative;
+  left: 8px;
+}
+
+.footer-span{
+   position: relative;
+    left: 5px;
+}
