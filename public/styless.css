@@ -1681,9 +1681,115 @@ bottom: 450px;
        }
 }
 
-@media (device-width: 1024px) {
-    
+@media (device-width: 720px)  {
+    .lvr{
+        margin-left: 280px;
+    }
+
+    .header-contents{
+        margin-left: 340px;
+    }
+
+
+    .sect-1 br{
+       display: none;
+    }
+
+    .sl{
+        margin-left: 500px;
+    }
+
+    .up{
+        margin-left: 100px;
+    }
+
+    .uo{
+        min-width: 100%;
+        margin-left: 40px;
+    }
+
+    .ui{
+       left: 20px;
+       padding-left: 320px;
+       padding-right: 320px;
+       white-space: nowrap;
+    }
+
+    .yu{
+        margin-left: 100px;
+    }
+
+    .oo{
+        width: 100%;
+        left: -175px;
+        top: -375px;
+    }
+
+    .ol{
+        margin-bottom: 120px;
+    }
+
+    .section-2-text br{
+      display: none;
+    }
+
+    .section-2-text{
+        top: 110px;
+        width: 1010px;
+        
+    }
+
+    .text-3{
+        margin-top: 220px;
+        right: 20px;
+        width: 550px;
+    }
+
+    .mm{
+        margin-bottom: -80px;
+    }
+
+    .ok{
+        width: 550px;
+    }
+
+    .kn{
+        width: 550px;
+    }
+
+    .xz{
+         width: 550px;
+    }
+
+    .kt{
+        width: 550px;
+    }
+
+    .tk{
+        width: 530px;
+    }
+
+     .bn{
+         width: 550px;
+     }
+
+    .tkk{
+        width: 550px;
+    }
+
+    .bnb{
+        width: 550px;
+    }
+
+    .ord{
+        width: 650px;
+    }
+
 }
+
+
+    
+
 
 
 

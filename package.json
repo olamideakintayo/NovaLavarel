@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build-css": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+    "build-css": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --minify",
+    "build-css:dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
   },
-
   "keywords": [
     "[]"
   ],
@@ -16,7 +16,8 @@
     "16": "^0.0.2",
     "engine": "^1.0.0",
     "html": "^1.0.0",
-    "node": "^17.7.1"
+    "node": "^17.7.1",
+    "yarn": "^1.22.18"
   },
   "devDependencies": {
     "parcel-plugin-static-files-copy": "^2.6.0",
